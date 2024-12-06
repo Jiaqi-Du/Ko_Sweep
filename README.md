@@ -8,15 +8,28 @@ $$
 F(C) = \frac{K_o C}{C(K_o - 1) + 1}
 $$
 
-## Usage
+## Installation and Use
 
-1. **Package Installation**
+- **1. Package Installation**
 
-   To install the required packages, run:
+   To install the required packages, run the following:
 
    ```bash
    pip install numpy pandas matplotlib scipy scikit-learn openpyxl
 
-2. **Input Data**
+- **2. Input Data for Dataset.xlsx**
    
-   Input Ko value for displacement, vertical, and horizontal efficiency in corresponding columns in 'Dataset.xlsx'
+
+   **KoD:** Ko value for displacement efficiency
+
+   **KoA:** Ko value for area sweep efficiency
+
+   **KoV:** Ko value for vertical sweep efficiency
+   
+   **&#916; S:** The flowing fluid, calculated as $\ 1 - S_{or} - S_{wr}$ where:
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; S<sub>or</sub>: residual oil saturation
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; S<sub>wr</sub>: irreducible water saturation
+
+  **tD:** dimensionless time, 1 tD means the volume of injected fluid is equal to the pore volume
