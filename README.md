@@ -10,3 +10,13 @@ $$
 
 ## Usage
 
+1. **Package Installation**
+
+   To install the required packages, run:
+
+   ```bash
+   pip install numpy pandas matplotlib scipy scikit-learn openpyxl
+
+2. **Input Data**
+   
+   Input Ko value for displacement, vertical, and horizontal efficiency in corresponding columns in 'Dataset.xlsx'
