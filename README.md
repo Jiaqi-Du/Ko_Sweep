@@ -52,19 +52,19 @@ $$
   
   <table>
     <tr>
-      <td><img src="./Example/exa1.jpg" width="200"></td>
-      <td><img src="./Example/exa2.jpg" width="200"></td>
-      <td><img src="./Example/exa3.jpg" width="200"></td>
+      <td><img src="./Example/exa1-1.jpg" width="200"></td>
+      <td><img src="./Example/exa1-2.jpg" width="200"></td>
+      <td><img src="./Example/exa1-3.jpg" width="200"></td>
     </tr>
     <tr>
-      <td><img src="./Example/exa4.jpg" width="200"></td>
-      <td><img src="./Example/exa5.jpg" width="200"></td>
-      <td><img src="./Example/exa6.jpg" width="200"></td>
+      <td><img src="./Example/exa2-1.jpg" width="200"></td>
+      <td><img src="./Example/exa2-2.jpg" width="200"></td>
+      <td><img src="./Example/exa2-3.jpg" width="200"></td>
     </tr>
     <tr>
-      <td><img src="./Example/exa7.jpg" width="200"></td>
-      <td><img src="./Example/exa8.jpg" width="200"></td>
-      <td><img src="./Example/exa9.jpg" width="200"></td>
+      <td><img src="./Example/exa3-1.jpg" width="200"></td>
+      <td><img src="./Example/exa3-2.jpg" width="200"></td>
+      <td><img src="./Example/exa3-3.jpg" width="200"></td>
     </tr>
   </table>
 
