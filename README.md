@@ -68,6 +68,9 @@ $$
     </tr>
   </table>
 
+### Citation
+
+Koval, E.J. "A Method for Predicting the Performance of Unstable Miscible Displacement in Heterogeneous Media." *SPE J.*, 3 (1963): 145–154. [doi: 10.2118/450-PA](https://doi.org/10.2118/450-PA)
 
   
 
