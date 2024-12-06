@@ -19,7 +19,6 @@ $$
 
 - **2. Input Data for Dataset.xlsx**
    
-
    **KoD:** Ko value for displacement efficiency
 
    **KoA:** Ko value for area sweep efficiency
@@ -33,3 +32,24 @@ $$
   &nbsp;&nbsp;&nbsp;&nbsp; S<sub>wr</sub>: irreducible water saturation
 
   **tD:** dimensionless time, 1 tD means the volume of injected fluid is equal to the pore volume
+
+## Output ##
+
+- **1. Output for Dataset.xlsx**
+
+  The value of Ko, S, and MSE for each combination will be written into the Dataset.xlsx.
+  
+   **Ko:** The best Koval value to fit the Total Recovery Factor vs. td curve
+
+   **S:** The best flowing fluid value to fit the Total Recovery Factor vs. td curve
+
+   **MSE:** Mean squared error between Ko simulation solution and analytical solution
+  
+
+- **2. Plots for Ko results**
+
+  Produce a new folder `mkdir ~\Plots`, the plots for displacement efficiency, and total efficiency are saved.
+
+
+  
+
