@@ -49,6 +49,24 @@ $$
 - **2. Plots for Ko results**
 
   Produce a new folder `mkdir ~\Plots`, the plots for displacement efficiency, and total efficiency are saved.
+  
+  <table>
+    <tr>
+      <td><img src="./Example/exa1.jpg" width="200"></td>
+      <td><img src="./Example/exa2.jpg" width="200"></td>
+      <td><img src="./Example/exa3.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="./Example/exa4.jpg" width="200"></td>
+      <td><img src="./Example/exa5.jpg" width="200"></td>
+      <td><img src="./Example/exa6.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="./Example/exa7.jpg" width="200"></td>
+      <td><img src="./Example/exa8.jpg" width="200"></td>
+      <td><img src="./Example/exa9.jpg" width="200"></td>
+    </tr>
+  </table>
 
 
   
