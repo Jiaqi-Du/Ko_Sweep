@@ -76,7 +76,7 @@ for loop_index in range(nums):
     plt.annotate(f'S = {deltaS}', xy=(0.8, 0.2), xycoords='axes fraction', fontsize=12, verticalalignment='top')
 
     #Save the plot
-    plt.savefig(f'Plots/{loop_index+1}_displacement.jpg', format='jpg', dpi = 600)
+    plt.savefig(f'Plots/{loop_index+1}_Displacement.jpg', format='jpg', dpi = 600)
     plt.close()
 
 
