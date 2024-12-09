@@ -66,6 +66,21 @@ $$
       <td><img src="./Examples/exa3-2.jpg" width="200"></td>
       <td><img src="./Examples/exa3-3.jpg" width="200"></td>
     </tr>
+    <tr>
+      <td><img src="./Examples/exa3-1.jpg" width="200"></td>
+      <td><img src="./Examples/exa3-2.jpg" width="200"></td>
+      <td><img src="./Examples/exa3-3.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="./Examples/exa3-1.jpg" width="200"></td>
+      <td><img src="./Examples/exa3-2.jpg" width="200"></td>
+      <td><img src="./Examples/exa3-3.jpg" width="200"></td>
+    </tr>
+    <tr>
+      <td><img src="./Examples/exa3-1.jpg" width="200"></td>
+      <td><img src="./Examples/exa3-2.jpg" width="200"></td>
+      <td><img src="./Examples/exa3-3.jpg" width="200"></td>
+    </tr>
   </table>
 
 ### Citation
